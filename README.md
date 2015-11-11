@@ -6,3 +6,4 @@
 - Performance: http://www.webpagetest.org/
 - IPv6: http://ipv6-test.com/validate.php
 - HTTP/2: https://www.h2check.org/
+- DNSSEC: http://dnssec-debugger.verisignlabs.com/
