@@ -7,3 +7,6 @@
 - IPv6: http://ipv6-test.com/validate.php
 - HTTP/2: https://www.h2check.org/
 - DNSSEC: http://dnssec-debugger.verisignlabs.com/
+
+# Check list
+- https://securitychecklist.org/
