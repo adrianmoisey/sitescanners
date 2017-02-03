@@ -10,3 +10,6 @@
 
 # Check list
 - https://securitychecklist.org/
+
+# Configuration generator
+- https://mozilla.github.io/server-side-tls/ssl-config-generator/
