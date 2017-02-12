@@ -13,3 +13,7 @@
 
 # Configuration generator
 - https://mozilla.github.io/server-side-tls/ssl-config-generator/
+
+# Blog posts
+
+- https://blog.appcanary.com/2017/http-security-headers.html
