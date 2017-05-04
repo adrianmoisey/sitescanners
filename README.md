@@ -7,6 +7,7 @@
 - IPv6: http://ipv6-test.com/validate.php
 - HTTP/2: https://www.h2check.org/
 - DNSSEC: http://dnssec-debugger.verisignlabs.com/
+- Mozilla Observatory: https://observatory.mozilla.org/
 
 # Check list
 - https://securitychecklist.org/
