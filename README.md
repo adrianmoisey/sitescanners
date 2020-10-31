@@ -1,5 +1,6 @@
 # sitescanners
 
+- HTTP/3: https://gf.dev/http3-test
 - SSL: https://www.ssllabs.com/
 - Security headers: https://securityheaders.io/
 - Optimization: https://developers.google.com/speed/pagespeed/insights/
